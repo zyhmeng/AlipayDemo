@@ -9,6 +9,11 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
+@property (nonatomic, assign) float price;
+@property (nonatomic, copy) NSString *subject;
+@property (nonatomic, copy) NSString *body;
+@property (nonatomic, copy) NSString *orderId;
+
 
 
 @end
