@@ -111,7 +111,6 @@
     }];
 }
 
-- (IBAction)wecat:(id)sender {
-}
+
 
 @end
